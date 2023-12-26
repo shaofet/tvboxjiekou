@@ -1,0 +1,8 @@
+{
+"storeHouse": [
+{"sourceName":"多多聚合仓","sourceUrl":"https://duo.codered.cloud/duo.json"},
+{"sourceName":"乐享汇专线","sourceUrl":"https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TVBox/master/zx1.json"},
+{"sourceName":"超级仓库","sourceUrl":"https://www.agit.ai/hu/hcr/raw/branch/master/99668.txt"},
+{"sourceName":"自用仓库有失效","sourceUrl":"https://www.agit.ai/ddx/TVBox/raw/branch/master/d.json"}
+]}
+
